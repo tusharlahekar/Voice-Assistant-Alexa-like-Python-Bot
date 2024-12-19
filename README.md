@@ -25,6 +25,6 @@ This project is a simple voice assistant developed in Python. Inspired by Alexa,
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/voice-assistant.git
+   git clone https://github.com/tusharlahekar/voice-assistant.git
    cd voice-assistant
 
