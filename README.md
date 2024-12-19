@@ -28,37 +28,3 @@ This project is a simple voice assistant developed in Python. Inspired by Alexa,
    git clone https://github.com/yourusername/voice-assistant.git
    cd voice-assistant
 
-Install the required dependencies:
-
-bash
-Copy code
-pip install SpeechRecognition pyttsx3 pywhatkit wikipedia pyjokes
-Run the script:
-
-bash
-Copy code
-python voice_assistant.py
-Usage
-Start the program, and the assistant will begin listening.
-Say commands like:
-"Alexa, play [song name]"
-"Alexa, what time is it?"
-"Alexa, who is [person's name]?"
-"Alexa, tell me a joke."
-Enjoy interacting with your personal voice assistant!
-Example Commands
-"Alexa, play Shape of You"
-"Alexa, what is the time?"
-"Alexa, who is Albert Einstein?"
-"Alexa, are you single?"
-Customization
-Feel free to enhance the assistant by adding more features. Some ideas include:
-
-Weather forecasts
-Alarm and reminders
-Smart home integration
-Contributing
-Contributions are welcome! Please open an issue or submit a pull request with improvements or new features.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
